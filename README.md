@@ -1,2 +1,3 @@
 # GarbageOS
-An os which is trash under development so nothing here rn (yes ik im very active on github)
+~~An os which is trash under development so nothing here rn (yes ik im very active on github)~~
+I am still not done but the tutorials arent getting updated rn so I have to wait until codepulse updates his tutorial...
