@@ -72,7 +72,7 @@ setup_page_tables:
 	mov ecx, 0 ; counter
 .loop:
 
-	mov eax, 0x200000 ; 2MiB
+	mov eax, 0x200000 ; how come this OS is 2 MiB in size?
 	mul ecx
 	or eax, 0b10000011 ; present, writable, huge page
 	mov [page_table_l2 + ecx * 8], eax
