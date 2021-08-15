@@ -11,6 +11,7 @@ ok so basically make sure ur docker daemon has access to ur harddrive also if ur
 # Updates
 ooooooooooooooooooooOO WE GOT 64 BITTTTTTTTTTTTT
 also we are going to refactor some trash
+this is a OS build with the kernel so you can call it GarbageOS or the Lisa kernel
 # Real Hardware
 Turns out it works! I ran it on one of my laptops and it works just fine
 so go ahead and try it out for ur self! Burn the iso image to a DVD (which is what I used) and make sure it says DVD+RW which is rewritable then burn it with PowerISO or something else and yes it does work with the UEFI firmware and legacy firmware
