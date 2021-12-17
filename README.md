@@ -17,4 +17,4 @@ Turns out it works! I ran it on one of my laptops and it works just fine
 so go ahead and try it out for ur self! Burn the iso image to a DVD (which is what I used) and make sure it says DVD+RW which is rewritable then burn it with PowerISO or something else and yes it does work with the UEFI firmware and legacy firmware
 ~~THIS HAS NEVER BEEN TESTED. REAL HARDWARE MIGHT NOT WORK. AND UR PC MIGHT CRASH. BURN THE ISO TO A USB AND BOOT OFF THE USB. IF IT WORKED THEN I AM HAPPY FOR U~~
 # Pull Requests
-NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO. Btw ur not allowed to edit anything without my permission. **bai**
+Yeah sure. Btw ur not allowed to edit anything without my permission. **bai**
