@@ -1,4 +1,4 @@
-This project is the original kernel of GarbageOS, which is not good at outdated. The new kernel is [here](https://github.com/hdfsyu/GarbageOSV2)
+This project is the original kernel of GarbageOS, which is not good and outdated. The new kernel is [here](https://github.com/hdfsyu/GarbageOSV2)
 # GarbageOS
 ~~An os which is trash under development so nothing here rn (yes ik im very active on github)~~
 
